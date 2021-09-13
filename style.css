@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+canvas {
+  display: block; 
+  border: 2px solid tomato;
+  margin-left: auto;
+  margin-right: auto;
+} 
+#heading{
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+}
